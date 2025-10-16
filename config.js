@@ -2,9 +2,8 @@
 var MAP_STYLE = "hardedge";
 
 var DATA = {
-	"city_1" : {
-		"univ_A" : ["Peter", "Mary"],
-		"univ_B" : ["Tony", "Pepper"]
+	"杭州" : {
+		"浙江工业大学" : ["贾浩岚"]
 	},
 
 	"city_2" : {
@@ -13,7 +12,7 @@ var DATA = {
 };
 
 var SPEC_POS = {
-	"univ_C" : [121.597479, 31.185356]
+	
 };
 
 var MAP_TITLE = "毕业去向";
